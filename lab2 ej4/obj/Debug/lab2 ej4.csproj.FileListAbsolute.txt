@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\bin\Debug\lab2 ej4.exe.config
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\bin\Debug\lab2 ej4.exe
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\bin\Debug\lab2 ej4.pdb
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\bin\Debug\CAPA_DATOS.dll
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\bin\Debug\CAPA_DATOS.pdb
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\obj\Debug\lab2 ej4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\obj\Debug\lab2_ej4.Form1.resources
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\obj\Debug\lab2_ej4.Properties.Resources.resources
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\obj\Debug\lab2 ej4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\obj\Debug\lab2 ej4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\obj\Debug\lab2 ej4.csproj.CopyComplete
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\obj\Debug\lab2 ej4.exe
+C:\Users\user\source\repos\lab2 ej4\lab2 ej4\obj\Debug\lab2 ej4.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\lab2 ej4\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\user\source\repos\lab2 ej4\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\user\source\repos\lab2 ej4\CAPA_DATOS\obj\Debug\CAPA_DATOS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lab2 ej4\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab2 ej4\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\user\source\repos\lab2 ej4\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
