@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using CAPA_DATOS;
 
+//Esta es la capa de negocio
 namespace CAPA_NEGOCIO
 {
     public class negocio
